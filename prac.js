@@ -1,7 +1,7 @@
 console.log("Soniv");
 
 setTimeout(()=>{
-    console.log("Ahmad");
+    console.log("Soniv Ahmad");
 }, 2000);
 
 
