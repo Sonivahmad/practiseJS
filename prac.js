@@ -8,3 +8,10 @@ setTimeout(()=>{
 console.log("ComeToGetOne");
 console.log("AhmadRazaoooa");
 console.log("AhmadRazaa");
+
+console.log("ComeToGetOne");
+console.log("AhmadRazaoooa");
+console.log("AhmadRazaa");
+console.log("ComeToGetOne");
+console.log("AhmadRazaoooa");
+console.log("AhmadRazaa");
