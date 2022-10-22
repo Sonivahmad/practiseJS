@@ -5,19 +5,4 @@ setTimeout(()=>{
 }, 2000);
 
 
-console.log("ComeToGetOne");
-console.log("AhmadRazaoooa");
-console.log("AhmadRazaa");
-
-console.log("ComeToGetOne");
-console.log("AhmadRazaoooa");
-console.log("AhmadRazaa");
-console.log("ComeToGetOne");
-console.log("AhmadRazaoooa");
-console.log("AhmadRazaa");
-
-console.log("ComeToGetOne");
-console.log("AhmadRazaoooa");
-console.log("AhmadRazaa");
-console.log("ComeToGetOne");
-console.log("AhmadRazaoooa");
+console.log("Aircampus");
