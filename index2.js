@@ -5,4 +5,10 @@ let obj={
 };
 for(let key in obj){
     console.log(key, obj[key]);
-} l;klsa;ll;liiefewklfelfwleLHLKHKLLKHKHKHfdjdfijgdggdgdgfdrgfd
+} 
+
+
+
+
+
+jjk,mmjnnnnn
