@@ -8,7 +8,4 @@ for(let key in obj){
 } 
 
 
-
-
-
-jjk,mmjnnnnnjkhjkhjkhkhj
+Ahmad Razaa
